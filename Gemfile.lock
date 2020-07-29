@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ble (1.0.0)
+      concurrent-ruby
+      ruby-dbus
+    byebug (11.1.3)
+    concurrent-ruby (1.1.6)
+    ruby-dbus (0.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ble
+  byebug
+
+BUNDLED WITH
+   1.17.3
